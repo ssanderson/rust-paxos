@@ -1,0 +1,9 @@
+[package]
+name = "rust-paxos"
+version = "0.1.0"
+authors = ["Scott Sanderson <ssanderson@quantopian.com>"]
+
+[dependencies]
+getopts = "0.2"
+serde = "1.0"
+serde_derive = "1.0"
